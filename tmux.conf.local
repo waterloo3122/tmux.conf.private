@@ -1,0 +1,4 @@
+# Add your local tmux config here
+set-option -g mouse on
+#set -g mouse-utf8 off
+run-shell /home/pp/tmux-better-mouse-mode/scroll_copy_mode.tmux
